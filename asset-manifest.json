@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-Bubble/static/css/main.09b11e01.css",
+    "main.js": "/Todo-Bubble/static/js/main.f32671cf.js",
+    "index.html": "/Todo-Bubble/index.html",
+    "main.09b11e01.css.map": "/Todo-Bubble/static/css/main.09b11e01.css.map",
+    "main.f32671cf.js.map": "/Todo-Bubble/static/js/main.f32671cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b11e01.css",
+    "static/js/main.f32671cf.js"
+  ]
+}
